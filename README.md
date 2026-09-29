@@ -18,7 +18,9 @@ Hi, I'm **Priyansh**, a third-year B.Tech Computer Science student passionate ab
 Name        : Priyansh
 Education   : B.Tech Computer Science
 Year        : 3rd Year
-Interests   : DSA, Full Stack Development, Backend Development, Artificial Intelligence , Data Science
+Interests   : DSA, Full Stack Development, Backend Development, AI & Data Science,
+              Cloud Computing, Modern Web Technologies, Cybersecurity & Secure Software
+              Development, FinTech & Banking Technology
 ```
 
 ---
