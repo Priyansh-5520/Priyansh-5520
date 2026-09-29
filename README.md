@@ -1,12 +1,18 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#2875E8">
 
-# 👋 Hi, I'm Priyansh
+<br>
 
-### Third-Year B.Tech CSE Student | Software Developer
+# <font color="white">Hey, I'm Priyansh! 👋</font>
 
+### <font color="white">Third-Year B.Tech CSE Student | Software Developer</font>
 **Data Structures & Algorithms • Full Stack Development • Backend Development**
+<br>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
