@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2875E8&height=200&section=header&text=Hey%2C%20I'm%20Priyansh!%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Third-Year%20B.Tech%20CSE%20Student%20%7C%20Software%20Developer&descSize=20&descAlignY=65&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=343A40&height=200&section=header&text=Hey%2C%20I'm%20Priyansh!%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Third-Year%20B.Tech%20CSE%20Student%20%7C%20Software%20Developer&descSize=20&descAlignY=65&descColor=FFFFFF" width="100%"/>
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
