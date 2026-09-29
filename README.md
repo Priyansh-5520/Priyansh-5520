@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Priyansh
+# 👋 Hi, I'm Priyansh Patel
 
 ### Third-Year B.Tech CSE Student | Software Developer
 
@@ -19,4 +19,3 @@ Name        : Priyansh
 Education   : B.Tech Computer Science
 Year        : 3rd Year
 Interests   : DSA, Full Stack Development, Backend Development
-Currently   : Preparing for GATE 2027 & Placements
