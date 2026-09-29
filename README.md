@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Priyansh-5520/Priyansh-5520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Priyansh
 
-Here are some ideas to get you started:
+### Third-Year B.Tech CSE Student | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Improving;Data+Structures+%26+Algorithms;Full+Stack+Development;Always+Building+Something+New+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Priyansh**, a third-year B.Tech Computer Science student passionate about software development, problem solving and building real-world applications.
+
+```text
+Name        : Priyansh
+Education   : B.Tech Computer Science
+Year        : 3rd Year
+Interests   : DSA, Full Stack Development, Backend Development
+Currently   : Preparing for GATE 2027 & Placements
