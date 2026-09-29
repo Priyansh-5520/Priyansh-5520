@@ -7,13 +7,14 @@
 # <font color="white">Hey, I'm Priyansh! 👋</font>
 
 ### <font color="white">Third-Year B.Tech CSE Student | Software Developer</font>
-**Data Structures & Algorithms • Full Stack Development • Backend Development**
+
+<font color="white"><b>Data Structures & Algorithms • Full Stack Development • Backend Development</b></font>
+
 <br>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 👨‍💻 About Me
