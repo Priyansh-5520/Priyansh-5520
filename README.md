@@ -1,20 +1,8 @@
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#2875E8">
+<div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2875E8&height=200&section=header&text=Hey%2C%20I'm%20Priyansh!%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Third-Year%20B.Tech%20CSE%20Student%20%7C%20Software%20Developer&descSize=20&descAlignY=65&descColor=FFFFFF" width="100%"/>
 
-# <font color="white">Hey, I'm Priyansh! 👋</font>
-
-### <font color="white">Third-Year B.Tech CSE Student | Software Developer</font>
-
-<font color="white"><b>Data Structures & Algorithms • Full Stack Development • Backend Development</b></font>
-
-<br>
-
-</td>
-</tr>
-</table>
+</div>
 ---
 
 ## 👨‍💻 About Me
